@@ -424,3 +424,7 @@ button:hover {
   box-shadow: 0 25px 60px rgba(56,189,248,0.35);
 }
 
+.theory-btn{
+  color : yellow;
+}
+
