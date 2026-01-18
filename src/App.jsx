@@ -150,17 +150,17 @@ function App() {
 
       {/* ================= CONTACT ================= */}
       <section className="section contact">
-        <h2>Contact Me</h2>
+        <h2>Any Suggestions??</h2>
         <p>
           If you have suggestions, feedback, or would like to collaborate on
-          advanced data structure visualizations, feel free to reach out.
+          advanced data structure visualizations, feel free to reach out by checking the below section.
         </p>
       </section>
 
       <section className="section contact-section">
         <h2>Contact Me</h2>
         <p className="contact-subtext">
-          Let’s connect. Hover, feel the motion, and click to reach me.
+          Let’s connect. Hover, feel the motion, and click to REACH ME.
         </p>
 
         <div className="contact-grid">
@@ -171,7 +171,7 @@ function App() {
             className="contact-card animated magnetic"
           >
             <FaEnvelope />
-            <span>Email</span>
+            <span>GMail</span>
           </a>
 
           {/* GITHUB */}
@@ -197,15 +197,7 @@ function App() {
           </a>
 
           {/* TWITTER */}
-          <a
-            href="https://twitter.com/your-handle"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="contact-card animated magnetic"
-          >
-            <FaTwitter />
-            <span>Twitter</span>
-          </a>
+         
 
         </div>
       </section>
